@@ -1,7 +1,7 @@
-New Haven Data Science Meetup
-Aetna Health Care Fraud Detection System
-Aleksandar Lazarevic
-Mark Kanner
+New Haven Data Science Meetup  
+Aetna Health Care Fraud Detection System  
+Aleksandar Lazarevic  
+Mark Kanner  
 
 3/22/2017
 
