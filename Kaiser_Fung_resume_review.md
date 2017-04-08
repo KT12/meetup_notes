@@ -11,9 +11,11 @@
 
 Think like a hiring manager - highlight what you have in your experience.
 
-A lot of data science is cleaning up other people's messes.  Debate is messy like climate change.
+A lot of data science is cleaning up other people's messes.  Know what you're getting into.
 
-If you are not already in the field necessary to have a competitive resume.
+Data science also has a lot of debate.  Similar to climate change, where even though there is plenty of evidence people debate endlessly.
+
+If you are not already in the field, necessary to have a competitive resume.
 
 3 broad categories in the discipline, skill sets and types are different:
 * Data Science - attached to engineering or product team, production code (if something breaks on a website they will call you).  Delivering software.  Possibly need Ph.D.  An IT discipline.  Need to repeat same procedure over and over.  Work on automation.
