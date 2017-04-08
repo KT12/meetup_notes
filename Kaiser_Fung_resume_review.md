@@ -73,5 +73,5 @@ Do research on hiring managers.  Ideally diverse thinking people get together to
 Q.  Which of the three fields are most stable?
 A.  Business analytics is more secure than data IT, which is more secure than data science.  Business analytics has been around for a long time and is closest to the C-level.  They report key performance indicators (KPI's) to the C-suite.  Management is not going to fire the person delivering reports to C level.  They may ax a data science team which is working on speculative or seemingly inconsequential things.
 
-Notes taken by [@KT12](https://github.com/KT12)
+Notes taken by [@KT12](https://github.com/KT12)  
 Permanent link to notes on Github [here](https://github.com/KT12/meetup_notes/blob/master/Kaiser_Fung_resume_review.md)
