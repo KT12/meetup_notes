@@ -1,13 +1,13 @@
 ### Data Scientist Resume Review
 #### Kaiser Fung
-[Twitter](https://twitter.com/junkcharts)
-[Blog](http://junkcharts.typepad.com/)
-[Website](http://www.kaiserfung.com/)
-#### NYPL - SIBL
-[Event Info](http://junkcharts.typepad.com/numbersruleyourworld/2017/03/collaboration-with-new-york-public-library.html)
+[Twitter](https://twitter.com/junkcharts)  
+[Blog](http://junkcharts.typepad.com/)  
+[Website](http://www.kaiserfung.com/)  
+#### NYPL - SIBL  
+[Event Info](http://junkcharts.typepad.com/numbersruleyourworld/2017/03/collaboration-with-new-york-public-library.html)  
 
-4/8/17
-10:30 - 12:45
+4/8/17  
+10:30 - 12:45  
 
 Think like a hiring manager - highlight what you have in your experience.
 
