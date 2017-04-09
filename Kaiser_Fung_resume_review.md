@@ -59,11 +59,11 @@ For data analytics, need to relate to:
 * Modeling
 * Chasing down data / solving problems
 
-Look at the job posting RFP and adapt your resume to that.
+Look at the job posting as an RFP and adapt your resume to that.
 
-Need to have hard skills in this world, and need to list and point them out.  Need to be relevant to the future job, not the current job.  Cut the noise.
+Need to have hard skills in this world, and need to list/point them out.  Must be relevant to the future job, not the current job.  Cut the noise.
 
-Key thing you want to convey in top branding section is that you are qualified and better than the next guy.  Distinguish yourself from classmates who have done the same projects.
+Key thing you want to convey in the top branding section is that you are qualified and better than the next guy.  Distinguish yourself from classmates who have done the same projects.
 
 #### Question and answer segment
 
