@@ -6,7 +6,7 @@ Most popular time is Sunday morning
 
 ### Couchbase and N1QL
 Ravi Mayuram
-
+[Slides here](https://www.slideshare.net/EricDavidBenariPMP/svp-of-couchbase-the-exciting-world-of-nosql-scaling-nosql-data-n1ql-vs-sql-mobile-databases)
 Data is the new oil
 NoSQL came out of the pain of Google and FB - horizontal scaling instead of vertical scaling.
 
