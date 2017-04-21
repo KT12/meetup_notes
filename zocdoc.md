@@ -1,9 +1,12 @@
-### AWS Meetup
+## AWS Meetup
+#### Leveraging AWS and Machine Learning to Power Search at Zocdoc
 Hosted by [ZocDoc](https://www.zocdoc.com/)
+4/18/2017
 
 Pedro Rubio, Engineering Manager, Zocdoc
 Brian D’Alessandro, Director of Data Science, Zocdoc
 
+#### Engineering Section  
 Everything they do is regulated (healthcare).
 
 Search window on website is constantly being improved by engineering
@@ -16,6 +19,7 @@ Need to take into account distance, availability, and ratings when ordering resu
 
 Multi arm bandit is like mini AB test.  Sometimes randomize some part of the results.
 
+#### Data Science Section  
 Marketplace: find doctor
 Two way market - patients and doctors finding each other
 Some doctors only do certain procedures
