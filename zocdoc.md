@@ -3,6 +3,9 @@
 Hosted by [ZocDoc](https://www.zocdoc.com/)
 4/18/2017
 
+Introduction to Machine Learning [presentation](https://s3.amazonaws.com/meetup-ml/Intro+to+ML.pdf) by David Ping, AWS Solutions Architect  
+
+#### How Zocdoc leverages machine learning and AWS
 Pedro Rubio, Engineering Manager, Zocdoc
 Brian D’Alessandro, Director of Data Science, Zocdoc
 
