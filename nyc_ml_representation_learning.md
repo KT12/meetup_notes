@@ -30,6 +30,3 @@ LSTM cell to build rnn (classify on URL strings)
 Also look at flow sequences
 
 Next step in unsupervised learning!  Learning malware traffic automatically.
-
-
-#### cluster >> compare positive rate >> self similarity amtrix ####
