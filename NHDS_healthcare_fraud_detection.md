@@ -4,25 +4,27 @@ Aleksandar Lazarevic
 Mark Kanner  
 
 3/22/2017
-
+Yale SOM
 Presentation slides [here](https://drive.google.com/open?id=0BzeY9Dxv2ToSRmF1V3pudFg0OHJWMTAwNHExMVY5TTJ0QmRj)
+
+#### Probably, one of the best meetups I've every been to.  Great talk.
 
 1B claims since beginning 2017
 
-4 V's
+4 V's of data
 Volume, variety, velocity, veracity
 
-Use hadoop, SparkML, Python, R, SAS
+Use hadoop, SparkML, Python, R, SAS  
 
-Data preprocessing takes a long time
+Data preprocessing takes a long time  
 
 Partner with Fraud Special Investigation Unit of Aetna
 Social network analysis to discover fraud rings
 Anomaly detection
 
-Waste - errors, incorrect claims, perhaps no ill intention
-Abuse - gaming system, billing agencies help hospitals raise revenue
-Fraud - intentionally submitting wrong claims, upcoding
+Waste - errors, incorrect claims, perhaps no ill intention  
+Abuse - gaming system, billing agencies help hospitals raise revenue  
+Fraud - intentionally submitting wrong claims, upcoding  
 
 Takes 6-8 months to prove fraud.  Try to change abusive behavior through communication with provider.
 
