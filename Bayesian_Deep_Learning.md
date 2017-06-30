@@ -1,7 +1,7 @@
 # Bayesian Deep Learning
 ## Thomas Wiecki
 Director of Data Science, Quantopian
-
+[Related Notes](http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/)
 Galvanize
 June 27, 2017
 
