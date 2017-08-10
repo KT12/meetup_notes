@@ -12,7 +12,7 @@ Input is one hot encoding of text
 Output is vector, but then stack layers on top
 
 Colorbot
-Uses for loop for RNN layers
+Uses for loop for RNN layers    
 Sorting sequences by length so that the RNN runs faster
 
 
