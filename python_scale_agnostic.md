@@ -1,9 +1,11 @@
+# New York Python Meetup Group  
+## Hosted by Peloton  
+August 17, 2017  
+
 # Scale Agnostic Computing  
 ## Sean T. Allen
-[Sendence](http://www.sendence.com/)
-New York Python Meetup Group
-Hosted by Peloton
-August 17, 2017
+[Sendence](http://www.sendence.com/)  
+[Slides](https://speakerdeck.com/seantallen/scale-agnostic-python)
 
 #### Scaling from little data to big data is hard  
 * Could re-write to scale across multiple processes
